@@ -532,6 +532,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Food_Steak_01
       objectReference: {fileID: 0}
+    - target: {fileID: 116614, guid: 9f063c5e5835cbd4b8dc54a6c0b45db4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 442954, guid: 9f063c5e5835cbd4b8dc54a6c0b45db4, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -724,6 +728,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Animal_Chick
       objectReference: {fileID: 0}
+    - target: {fileID: 4334546142240969692, guid: 94a4978f6440eb74f8f8a5609e5cc378,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4334546142241442596, guid: 94a4978f6440eb74f8f8a5609e5cc378,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -792,6 +801,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Animal_Moose_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 6837530302811857080, guid: 0589127516edb6a4dbcfd99361c66770,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6837530302812075722, guid: 0589127516edb6a4dbcfd99361c66770,
         type: 3}
@@ -916,6 +930,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Dog_Beagle_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 9074047850609223569, guid: f9f6c7e13ace2fd4bb7fbbf0e82ed6d7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f9f6c7e13ace2fd4bb7fbbf0e82ed6d7, type: 3}
